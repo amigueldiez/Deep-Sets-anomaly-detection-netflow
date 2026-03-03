@@ -24,6 +24,9 @@ This research is a result of the CIBERLAB project (C083/23), carried out under t
 
 This research is also part of grant Explicit PID2024-162298OB-I00 funded by MICIU/AEI/ 10.13039/501100011033 and, as appropriate, by "ERDF A way of making Europe", by "ERDF/EU", by the "European Union".
 
+![Logo EXPLICIT](imgs/Banda_de_logos_Explicit.png)
+
+
 Alberto Miguel-Diez was supported by an FPU fellowship from the _Ministerio de Ciencia, Innovación y Universidades_.
 
 ![Logo Ministerio](imgs/ministerio-universidades.png)
