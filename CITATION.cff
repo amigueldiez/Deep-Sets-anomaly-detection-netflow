@@ -1,0 +1,45 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the associated paper."
+title: "Deep Sets for Network Flow Anomaly Detection under a Multiple Instance Learning Framework"
+type: software
+authors:
+  - family-names: "Miguel-Diez"
+    given-names: "Alberto"
+    orcid: "https://orcid.org/0009-0006-9969-3047"
+  - family-names: "Campazas-Vega"
+    given-names: "Adrián"
+    orcid: "https://orcid.org/0000-0001-8237-5962"
+  - family-names: "Álvarez-Aparicio"
+    given-names: "Claudia"
+    orcid: "https://orcid.org/0000-0002-7465-8054"
+  - family-names: "Sobrín-Hidalgo"
+    given-names: "David"
+    orcid: "https://orcid.org/0009-0005-7673-5921"
+  - family-names: "Guerrero-Higueras"
+    given-names: "Ángel Manuel"
+    orcid: "https://orcid.org/0000-0001-8277-0700"
+
+repository-code: "https://github.com/amigueldiez/Deep-Sets-anomaly-detection-netflow"
+keywords:
+  - anomaly detection
+  - network flows
+  - multiple instance learning
+  - deep sets
+  - cybersecurity
+  - netflow
+
+preferred-citation:
+  type: conference-paper
+  title: "Deep Sets for Network Flow Anomaly Detection under a Multiple Instance Learning Framework"
+  authors:
+    - family-names: "Miguel-Diez"
+      given-names: "Alberto"
+    - family-names: "Campazas-Vega"
+      given-names: "Adrián"
+    - family-names: "Álvarez-Aparicio"
+      given-names: "Claudia"
+    - family-names: "Sobrín-Hidalgo"
+      given-names: "David"
+    - family-names: "Guerrero-Higueras"
+      given-names: "Ángel Manuel"
+  year: 2026
