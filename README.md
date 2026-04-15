@@ -8,8 +8,8 @@ The core idea is to model bags of NetFlow records under the Multiple Instance Le
 
 ## Contents
 
-- `deepsets_def.ipynb` — End-to-end notebook:
-  - Loads the NetFlow dataset (`NF-CICIDS2018-v3.csv`) :contentReference[oaicite:1]{index=1}  
+- `deepsets_def.ipynb`:
+  - Loads the NetFlow dataset (`NF-CICIDS2018-v3.csv`)
   - Basic EDA and dataset inspection
   - Preprocessing utilities (feature filtering, NaN/Inf cleaning)
   - Feature importance / feature selection 
@@ -20,13 +20,12 @@ The core idea is to model bags of NetFlow records under the Multiple Instance Le
 
 This research is a result of the CIBERLAB project (C083/23), carried out under the collaboration agreement between INCIBE and the University of León. This initiative is part of the Recovery, Transformation and Resilience Plan, funded by the European Union (Next Generation EU).
 
-![Logo CIBERLAB](imgs/logo_proyecto.png)
+<img src="imgs/logo_proyecto.png" width="300" alt="Logo CIBERLAB" />
 
 This research is also part of grant Explicit PID2024-162298OB-I00 funded by MICIU/AEI/ 10.13039/501100011033 and, as appropriate, by "ERDF A way of making Europe", by "ERDF/EU", by the "European Union".
 
-![Logo EXPLICIT](imgs/Banda_de_logos_Explicit.png)
-
+<img src="imgs/Banda_de_logos_Explicit.png" width="300" alt="Logo EXPLICIT" />
 
 Alberto Miguel-Diez was supported by an FPU fellowship from the _Ministerio de Ciencia, Innovación y Universidades_.
 
-![Logo Ministerio](imgs/ministerio-universidades.png)
+<img src="imgs/ministerio-universidades.png" width="300" alt="Logo Ministerio" />
