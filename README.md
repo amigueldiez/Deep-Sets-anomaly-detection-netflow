@@ -16,6 +16,9 @@ The core idea is to model bags of NetFlow records under the Multiple Instance Le
   - Bag generation for MIL
   - Deep Sets + top-k pooling training and evaluation
 
+- `deepsets-topk.py`:
+  - Standalone script for training and evaluating the Deep Sets + top-k pooling model on the generated bags. It allow to remove the top-k pooling layer. Implements multiple random seeds and multiple runs for robust evaluation.
+
 ## Acknowledgements
 
 This research is a result of the CIBERLAB project (C083/23), carried out under the collaboration agreement between INCIBE and the University of León. This initiative is part of the Recovery, Transformation and Resilience Plan, funded by the European Union (Next Generation EU).
