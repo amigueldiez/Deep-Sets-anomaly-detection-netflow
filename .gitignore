@@ -2,3 +2,6 @@ f7546561558c07c5_NFV3DATA-A11964_A11964/
 .venv/
 __pycache__/
 *.pyc
+old/
+NF-CICIDS2018-v3.csv
+NF-UNSW-NB15-v3.csv
