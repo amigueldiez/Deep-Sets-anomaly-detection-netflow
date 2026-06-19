@@ -1,39 +1,27 @@
 cff-version: 1.2.0
-message: "If you use this code, please cite the associated paper."
-title: "Deep Sets for Network Flow Anomaly Detection under a Multiple Instance Learning Framework"
-type: software
+message: "If you use this software, please cite it as below."
 authors:
   - family-names: "Miguel-Diez"
     given-names: "Alberto"
     orcid: "https://orcid.org/0009-0006-9969-3047"
   - family-names: "Campazas-Vega"
     given-names: "Adrián"
-    orcid: "https://orcid.org/0000-0001-8237-5962"
   - family-names: "Álvarez-Aparicio"
     given-names: "Claudia"
-    orcid: "https://orcid.org/0000-0002-7465-8054"
   - family-names: "Sobrín-Hidalgo"
     given-names: "David"
-    orcid: "https://orcid.org/0009-0005-7673-5921"
   - family-names: "Guerrero-Higueras"
     given-names: "Ángel Manuel"
-    orcid: "https://orcid.org/0000-0001-8277-0700"
 
-repository-code: "https://github.com/amigueldiez/Deep-Sets-anomaly-detection-netflow"
-keywords:
-  - anomaly detection
-  - network flows
-  - multiple instance learning
-  - deep sets
-  - cybersecurity
-  - netflow
+title: "Deep Sets for Network Flow Anomaly Detection Under a Multiple Instance Learning Framework"
+doi: "10.1007/978-3-032-29251-3_3"
 
 preferred-citation:
   type: conference-paper
-  title: "Deep Sets for Network Flow Anomaly Detection under a Multiple Instance Learning Framework"
   authors:
     - family-names: "Miguel-Diez"
       given-names: "Alberto"
+      orcid: "https://orcid.org/0009-0006-9969-3047"
     - family-names: "Campazas-Vega"
       given-names: "Adrián"
     - family-names: "Álvarez-Aparicio"
@@ -42,4 +30,28 @@ preferred-citation:
       given-names: "David"
     - family-names: "Guerrero-Higueras"
       given-names: "Ángel Manuel"
-  year: 2026
+  editors:
+    - family-names: "Corchado"
+      given-names: "Emilio"
+    - family-names: "Quintián"
+      given-names: "Héctor"
+    - family-names: "Pérez García"
+      given-names: "Hilde"
+    - family-names: "Calvo Rolle"
+      given-names: "José Luis"
+    - family-names: "Ramos"
+      given-names: "Sérgio Filipe"
+    - family-names: "Martínez de Pisón"
+      given-names: "Francisco Javier"
+    - family-names: "Fosci"
+      given-names: "Paolo"
+  title: "Deep Sets for Network Flow Anomaly Detection Under a Multiple Instance Learning Framework"
+  collection-title: "Computational Intelligence in Security for Information Systems"
+  publisher:
+    name: "Springer Nature Switzerland"
+    address: "Cham"
+  doi: "10.1007/978-3-032-29251-3_3"
+  isbn: "978-3-032-29251-3"
+  start: 28
+  end: 40
+  year: 2027
